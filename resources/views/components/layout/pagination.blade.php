@@ -1,0 +1,3 @@
+<nav>
+    {{ $products->links() }}
+</nav>

@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[list]::-webkit-calendar-picker-indicator,
+input[list]::-webkit-list-button {
+    opacity: 0 !important;
+    -webkit-appearance: none;
+}
+
+input::-webkit-contacts-auto-fill-button {
+    visibility: hidden;
+    display: none !important;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}
+
+select {
+    -webkit-appearance: none; /* Remove arrow for Chrome/Safari */
+    -moz-appearance: none; /* Remove arrow for Firefox */
+    appearance: none; /* Remove arrow for other browsers */
+    background-image: none; /* Remove arrow background */
+}
+
+/* CSS override */
+#exploreBtn {
+    @apply mt-6 flex flex-shrink-0 items-center justify-center rounded-md border border-white border-opacity-25 bg-white bg-opacity-0 px-4 py-3 text-base font-medium text-white hover:bg-opacity-10 sm:ml-8 sm:mt-0 lg:ml-0 lg:w-full;
+}

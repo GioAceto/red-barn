@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290.59 134.04">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+        font-family: Rockwell-Regular, Rockwell;
+        font-size: 18px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.06em;
+      }
+    </style>
+  </defs>
+  <g class="cls-3">
+    <text class="cls-5" transform="translate(0 15.62)"><tspan x="0" y="0">487 Willow </tspan></text>
+    <text class="cls-2" transform="translate(105.51 15.62)"><tspan x="0" y="0">S</tspan></text>
+    <text class="cls-5" transform="translate(115.16 15.62)"><tspan x="0" y="0">t</tspan></text>
+    <text class="cls-4" transform="translate(121.03 15.62)"><tspan x="0" y="0">r</tspan></text>
+    <text class="cls-5" transform="translate(128.11 15.62)"><tspan x="0" y="0" xml:space="preserve">eet  </tspan></text>
+  </g>
+  <g class="cls-3">
+    <text class="cls-1" transform="translate(.91 47.76)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-5" transform="translate(12.5 47.76)"><tspan x="0" y="0">ockland, Maine</tspan></text>
+  </g>
+  <g class="cls-3">
+    <text class="cls-5" transform="translate(1.9 95.76)"><tspan x="0" y="0">Sunday 10am - 9pm</tspan></text>
+  </g>
+  <g class="cls-3">
+    <text class="cls-5" transform="translate(1.15 128.76)"><tspan x="0" y="0">Monday - Satu</tspan><tspan class="cls-6" x="128.19" y="0">r</tspan><tspan x="135.26" y="0">day 10am - 10pm</tspan></text>
+  </g>
+</svg>
